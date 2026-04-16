@@ -1,0 +1,28 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="64" fill="#1a1a2e"/>
+  <rect x="32" y="32" width="448" height="448" rx="32" fill="#0f0f23"/>
+  <!-- Calendar/Attendance Icon -->
+  <rect x="120" y="120" width="272" height="240" rx="16" fill="#3b82f6"/>
+  <rect x="120" y="120" width="272" height="64" rx="16" fill="#1e40af"/>
+  <!-- Calendar dots -->
+  <circle cx="152" cy="152" r="6" fill="#ffffff"/>
+  <circle cx="184" cy="152" r="6" fill="#ffffff"/>
+  <circle cx="216" cy="152" r="6" fill="#ffffff"/>
+  <circle cx="248" cy="152" r="6" fill="#ffffff"/>
+  <circle cx="280" cy="152" r="6" fill="#ffffff"/>
+  <circle cx="312" cy="152" r="6" fill="#ffffff"/>
+  <circle cx="344" cy="152" r="6" fill="#ffffff"/>
+  <!-- Calendar grid -->
+  <rect x="136" y="200" width="240" height="4" fill="#ffffff" opacity="0.3"/>
+  <rect x="136" y="232" width="240" height="4" fill="#ffffff" opacity="0.3"/>
+  <rect x="136" y="264" width="240" height="4" fill="#ffffff" opacity="0.3"/>
+  <rect x="136" y="296" width="240" height="4" fill="#ffffff" opacity="0.3"/>
+  <rect x="168" y="200" width="4" height="104" fill="#ffffff" opacity="0.3"/>
+  <rect x="200" y="200" width="4" height="104" fill="#ffffff" opacity="0.3"/>
+  <rect x="232" y="200" width="4" height="104" fill="#ffffff" opacity="0.3"/>
+  <rect x="264" y="200" width="4" height="104" fill="#ffffff" opacity="0.3"/>
+  <rect x="296" y="200" width="4" height="104" fill="#ffffff" opacity="0.3"/>
+  <!-- Checkmark -->
+  <circle cx="224" cy="368" r="56" fill="#10b981"/>
+  <path d="M200 368L216 384L248 352" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
