@@ -6,21 +6,11 @@
   "homepage": "https://hemchand0809.github.io/Attenex.App/",
   "scripts": {
     "dev": "vite dev",
-    "dev:https": "vite dev --host 0.0.0.0 --port 8080",
-    "dev:mobile": "vite dev --host 0.0.0.0 --port 8080",
     "build": "vite build",
-    "build:dev": "vite build --mode development",
     "preview": "vite preview",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "build:web": "vite build",
-    "serve:https": "node ./scripts/serve-https.js",
-    "cap:init": "npx cap init attenex-app com.attenex.app --web-dir dist",
-    "cap:add:android": "npx cap add android",
-    "cap:add:ios": "npx cap add ios",
-    "cap:sync": "npx cap sync",
-    "cap:android": "npx cap open android",
-    "cap:ios": "npx cap open ios",
+
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },

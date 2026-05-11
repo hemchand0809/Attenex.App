@@ -38,7 +38,7 @@ await ensureCerts();
 
 export default defineConfig({
   vite: {
-    base: "/Attenex.App/",   // ✅ ADD THIS LINE
+    base: "/Attenex.App/",
     server: {
       host: "0.0.0.0",
       port: 8080,
