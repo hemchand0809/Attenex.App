@@ -1,0 +1,6 @@
+{
+  "appId": "com.attenex.app",
+  "appName": "Attenex",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
